@@ -1,12 +1,6 @@
 
 #  Post Request to SpreadSheets
 
-
-
-**Table of Contents**
-
-[TOCM]
-
 Tutorial Part 1 
 =============
 
@@ -25,7 +19,9 @@ First of all follow this link to create you spreadsheet page  **[Press me ](http
 > Make sure that you have Date and id column also Rename the sheet to DataClient , you can add as many as column you need like studentName , StudentAdress or whatever
 
 ###Press Extentions then Apps Script
+
 ![](https://github.com/Roxgame95/SpreadSheets_PostRequest/raw/main/image3.jpg)
+
 
 > After the prevouis steps on top of the page select extentions then apps script it should open new window with you
 
@@ -104,6 +100,7 @@ function isNotExist(range, fText) {
 > After preparing the script we have to tell our application what function should fire we send data from client side follow from 1 to 3 and we will be ready for next step
 
 ###Deployement
+
 ![](https://github.com/Roxgame95/SpreadSheets_PostRequest/raw/main/image7.jpg)
 
 > After everything done we have to deploy the app so we can use it
